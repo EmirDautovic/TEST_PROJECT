@@ -1,0 +1,47 @@
+h1{
+    padding: 28px;
+    color: blue;
+}
+
+header{
+    color: aliceblue;
+    height: 90px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+}
+ul{
+    float: right;
+    margin-top: -75px;
+}
+li{
+    
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    color: black;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+  
+}
+
+#main {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    width: 300px;
+}
+button{
+    padding: 10px 15px;
+    border-radius: 25px;
+    background-color: #5777ba;
+    border: none;
+    color: wheat;
+
+    
+    
+
+}
+
